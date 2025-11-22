@@ -15,3 +15,7 @@ This algorithm consists of five main operations:
 3. **Peek/Top**: Return the element at the top of the stack, without removing it;
 4. **Size/Len**: Return the number of elements of that stack;
 5. **isEmpty**: Verify if the stack is currently empty.
+
+### Guardrails:
+
+- Every time you create any data structure, you must plan on **what and how to handle the elements** of the data structure internally. One of the most popular ways is with **an array or container**, since we will be inserting/appending these elements into some sort of storage type...
